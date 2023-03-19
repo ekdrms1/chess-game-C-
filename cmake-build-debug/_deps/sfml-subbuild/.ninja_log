@@ -1,0 +1,21 @@
+# ninja log v5
+1	53	7009392581274130	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	231660bfb43d1489
+1	53	7009392581274130	C:/Users/psw/CLionProjects/hello/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	231660bfb43d1489
+5582	5628	7009392637004487	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	820b685d2d64eb76
+5449	5494	7009392635671528	C:/Users/psw/CLionProjects/hello/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	3525048de8ac6f96
+54	5406	7009392634799316	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	19066a5a519ca8f8
+5406	5448	7009392635227545	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	2d09134a832484b7
+54	5406	7009392634799316	C:/Users/psw/CLionProjects/hello/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	19066a5a519ca8f8
+5406	5448	7009392635227545	C:/Users/psw/CLionProjects/hello/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	2d09134a832484b7
+5449	5494	7009392635671528	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	3525048de8ac6f96
+5494	5538	7009392636112669	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	dca8dc3cac41f57d
+5494	5538	7009392636112669	C:/Users/psw/CLionProjects/hello/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	dca8dc3cac41f57d
+5538	5582	7009392636554231	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	4578805aba29932d
+5538	5582	7009392636554231	C:/Users/psw/CLionProjects/hello/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	4578805aba29932d
+5582	5628	7009392637004487	C:/Users/psw/CLionProjects/hello/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	820b685d2d64eb76
+5628	5673	7009392637461835	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	bd9b3f7878551a78
+5628	5673	7009392637461835	C:/Users/psw/CLionProjects/hello/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	bd9b3f7878551a78
+5673	5740	7009392638140787	CMakeFiles/sfml-populate-complete	d1a3e4a442e30b0b
+5673	5740	7009392638140787	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	d1a3e4a442e30b0b
+5673	5740	7009392638140787	C:/Users/psw/CLionProjects/hello/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	d1a3e4a442e30b0b
+5673	5740	7009392638140787	C:/Users/psw/CLionProjects/hello/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	d1a3e4a442e30b0b

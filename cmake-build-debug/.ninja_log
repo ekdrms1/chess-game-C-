@@ -1,0 +1,7 @@
+# ninja log v5
+2	221	7009393378482255	build.ninja	dc04f7493dc19bfa
+4	623	7009391826789468	CMakeFiles/hello.dir/main.cpp.obj	38f21a40245206ad
+0	1143	7009338517202514	CMakeFiles/hello.dir/HelloWorld.cpp.obj	efe2a430b6fe5604
+623	735	7009391827886288	hello.exe	5aa7638ec554dfba
+1	1956	7009410567948044	CMakeFiles/hello.dir/main.cpp.obj	38f21a40245206ad
+1966	2114	7009410569494415	hello.exe	5aa7638ec554dfba
